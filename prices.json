@@ -1,0 +1,4 @@
+[{"sku": "A", "base-price" : 50, "discount-threshold" : 3, "discount-price": 130},
+ {"sku": "B", "base-price" : 30, "discount-threshold" : 2, "discount-price": 45},
+ {"sku": "C", "base-price" : 20},
+ {"sku": "D", "base-price" : 15}]
